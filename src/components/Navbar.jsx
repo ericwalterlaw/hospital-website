@@ -37,6 +37,7 @@ export default function Navbar() {
           <NavItem to="/services">Services</NavItem>
           <NavItem to="/about">About Us</NavItem>
           <NavItem to="/contact">Contact Us</NavItem>
+          <NavItem to="/find-patients">Find Patients</NavItem>
         </nav>
 
         {/* Mobile hamburger */}
