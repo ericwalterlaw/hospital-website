@@ -22,9 +22,9 @@ const ContactUs = () => (
                 </div>
                 <div>
                   <h3 className="font-semibold mb-1">Phone Numbers</h3>
-                  <p className="text-gray-600">Emergency: (555) 911-1234</p>
-                  <p className="text-gray-600">Appointments: (555) 123-4567</p>
-                  <p className="text-gray-600">General Info: (555) 789-0123</p>
+                  <p className="text-gray-600">Emergency: (971) 506-9048573</p>
+                  <p className="text-gray-600">Appointments: (971) 506-9048574</p>
+                  <p className="text-gray-600">General Info: (971) 506-9048575</p>
                 </div>
               </div>
               
@@ -34,9 +34,9 @@ const ContactUs = () => (
                 </div>
                 <div>
                   <h3 className="font-semibold mb-1">Email Addresses</h3>
-                  <p className="text-gray-600">info@medicare-hospital.com</p>
-                  <p className="text-gray-600">appointments@medicare-hospital.com</p>
-                  <p className="text-gray-600">emergency@medicare-hospital.com</p>
+                  <p className="text-gray-600">info@newlifemedicals.org</p>
+                  <p className="text-gray-600">appointments@newlifemedicals.org</p>
+                  <p className="text-gray-600">emergency@newlifemedicals.org</p>
                 </div>
               </div>
               
@@ -47,9 +47,9 @@ const ContactUs = () => (
                 <div>
                   <h3 className="font-semibold mb-1">Address</h3>
                   <p className="text-gray-600">
-                    123 Medical Center Drive<br />
-                    Health City, HC 12345<br />
-                    United States
+                    Consulates Area, Bur Dubai <br/>
+                    Sheikh Khalifa Bin Zayed Street <br/> 
+                    (D 88) Dubai, United Arab Emirates
                   </p>
                 </div>
               </div>

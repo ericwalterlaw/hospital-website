@@ -21,7 +21,7 @@ export default function App() {
         </Routes>
       </main>
       <footer className="border-t py-6 text-center text-sm text-gray-500">
-        © {new Date().getFullYear()} NewLife Care. All rights reserved.
+        © {new Date().getFullYear()} NewLife Medicals. All rights reserved.
       </footer>
     </div>
   );

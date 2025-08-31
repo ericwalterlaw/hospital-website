@@ -28,7 +28,7 @@ export default function Navbar() {
       <div className="container mx-auto h-16 px-4 flex items-center justify-between">
         {/* Logo */}
         <Link to="/" className="text-xl font-bold" onClick={closeMenu}>
-          🏥 New Life Care
+          🏥 New Life Medicals
         </Link>
 
         {/* Desktop nav */}
