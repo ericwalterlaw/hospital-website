@@ -17,7 +17,7 @@ const HomePage = () => (
       <div className="relative max-w-7xl mx-auto px-4 py-28 text-white">
         <div className="text-center">
           <h1 className="text-5xl font-bold mb-6">
-            Welcome to MediCare Hospital
+            Welcome to New Life Medicals
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
             Providing exceptional healthcare services with compassion, expertise,
@@ -47,7 +47,7 @@ const HomePage = () => (
       <div className="max-w-7xl mx-auto px-4">
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold text-gray-800 mb-4">
-            Why Choose MediCare?
+            Why Choose New Life Medicals?
           </h2>
           <p className="text-gray-600 max-w-2xl mx-auto">
             We combine advanced medical technology with personalized care to

@@ -32,9 +32,9 @@ const AboutUs = () => (
     <div className="min-h-screen bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 py-12">
         <div className="text-center mb-12">
-          <h1 className="text-4xl font-bold text-gray-800 mb-4">About MediCare Hospital</h1>
+          <h1 className="text-4xl font-bold text-gray-800 mb-4">About New Life Medicals</h1>
           <p className="text-gray-600 max-w-3xl mx-auto text-lg">
-            Founded in 1985, MediCare Hospital has been serving the community for over 35 years 
+            Founded in 1985, New Life Medicals has been serving the community for over 35 years 
             with dedication, excellence, and compassionate care.
           </p>
         </div>
